@@ -1,4 +1,4 @@
-![Logo UNAHUR](E:\Universidad\Objetos 1\Git\Ejercitacion\presentacion-HuakangZZ\assets)
+![Logo UNAHUR](E:\Universidad\Objetos 1\Git\Ejercitacion\presentacion-HuakangZZ\assets\Perfildisc.PNG)
 
 Bienvenidos a
 # Programación con objetos I
